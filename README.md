@@ -1,6 +1,6 @@
 # Simple Suits Add-on Reboot
 ## Info
-This add-on was released in 2023 but I guess I'll remake it for stable versions as well and noew it's Free and open-source under MIT License
+This add-on was released in 2023 but I guess I'll remake it for stable versions as well and now it's Free and open-source under MIT License
 Features:
 - Over 100+ Outfits to wear
 - This can be craftable
