@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"RMPlaysMC YT"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.1"
+			],
+			"dash": [
+				"0.10.10"
+			]
+		}
+	},
+	"header": {
+		"name": "Simple Suits and Clothes Addon - Restarted",
+		"description": "This Addon adds 20+ clothing in Minecraft it has more caps, suits and more perfect to create a clothing store in Minecraft\nDon't forget to apply \"Holiday Creator Features\" before you enter the world and enjoy it with friends or by yourself",
+		"min_engine_version": [
+			1,
+			18,
+			0
+		],
+		"uuid": "c960f04e-2361-47f6-9b13-fd4f421f4868",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "8e0c9bf1-72ca-4ccf-b210-34a93fc202fb",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

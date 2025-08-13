@@ -1,0 +1,25 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:attachable": {
+		"description": {
+			"identifier": "simple_suits:motor_helmet_red",
+			"materials": {
+				"default": "entity_alphablend",
+				"enchanted": "armor_enchanted"
+			},
+			"textures": {
+				"default": "textures/suits/motor_helmet/motor_helmet_red",
+				"enchanted": "textures/misc/enchanted_item_glint"
+			},
+			"geometry": {
+				"default": "geometry.simple_suit_motor_helmet"
+			},
+			"scripts": {
+				"parent_setup": "variable.helmet_visible_layer = 0.0;"
+			},
+			"render_controllers": [
+				"controller.render.armor"
+			]
+		}
+	}
+}

@@ -1,0 +1,135 @@
+item.simple_suits:cap_black=Black Cap 
+item.simple_suits:cap_blue=Blue Cap 
+item.simple_suits:cap_brown=Brown Cap 
+item.simple_suits:cap_cyan=Cyan Cap 
+item.simple_suits:cap_gray=Gray Cap 
+item.simple_suits:cap_green=Green Cap 
+item.simple_suits:cap_light_blue=Light Blue Cap 
+item.simple_suits:cap_lime=Lime Cap 
+item.simple_suits:cap_magenta=Magenta Cap 
+item.simple_suits:cap_orange=Orange Cap 
+item.simple_suits:cap_pink=Pink Cap 
+item.simple_suits:cap_purple=Purple Cap 
+item.simple_suits:cap_red=Red Cap 
+item.simple_suits:cap_silver=Silver Cap 
+item.simple_suits:cap_white=White Cap 
+item.simple_suits:cap_yellow=Yellow Cap 
+
+
+
+
+item.simple_suits:pants_black=Black Pants 
+item.simple_suits:pants_blue=Blue Pants 
+item.simple_suits:pants_brown=Brown Pants 
+item.simple_suits:pants_cyan=Cyan Pants 
+item.simple_suits:pants_gray=Gray Pants 
+item.simple_suits:pants_green=Green Pants 
+item.simple_suits:pants_light_blue=Light Blue Pants 
+item.simple_suits:pants_lime=Lime Pants 
+item.simple_suits:pants_magenta=Magenta Pants 
+item.simple_suits:pants_orange=Orange Pants 
+item.simple_suits:pants_pink=Pink Pants 
+item.simple_suits:pants_purple=Purple Pants 
+item.simple_suits:pants_red=Red Pants 
+item.simple_suits:pants_silver=Silver Pants 
+item.simple_suits:pants_white=White Pants 
+item.simple_suits:pants_yellow=Yellow Pants
+
+
+
+
+item.simple_suits:shoes_black=Black Shoes
+item.simple_suits:shoes_blue=Blue Shoes
+item.simple_suits:shoes_brown=Brown Shoes
+item.simple_suits:shoes_cyan=Cyan Shoes
+item.simple_suits:shoes_gray=Gray Shoes
+item.simple_suits:shoes_green=Green Shoes
+item.simple_suits:shoes_light_blue=Light Blue Shoes
+item.simple_suits:shoes_lime=Lime Shoes
+item.simple_suits:shoes_magenta=Magenta Shoes
+item.simple_suits:shoes_orange=Orange Shoes
+item.simple_suits:shoes_pink=Pink Shoes
+item.simple_suits:shoes_purple=Purple Shoes
+item.simple_suits:shoes_red=Red Shoes
+item.simple_suits:shoes_silver=Silver Shoes
+item.simple_suits:shoes_white=White Shoes
+item.simple_suits:shoes_yellow=Yellow Shoes
+
+
+
+
+item.simple_suits:tshirt_black=Black T-shirt
+item.simple_suits:tshirt_blue=Blue T-shirt
+item.simple_suits:tshirt_brown=Brown T-shirt
+item.simple_suits:tshirt_cyan=Cyan T-shirt
+item.simple_suits:tshirt_gray=Gray T-shirt
+item.simple_suits:tshirt_green=Green T-shirt
+item.simple_suits:tshirt_light_blue=Light Blue T-shirt
+item.simple_suits:tshirt_lime=Lime T-shirt
+item.simple_suits:tshirt_magenta=Magenta T-shirt
+item.simple_suits:tshirt_orange=Orange T-shirt
+item.simple_suits:tshirt_pink=Pink T-shirt
+item.simple_suits:tshirt_purple=Purple T-shirt
+item.simple_suits:tshirt_red=Red T-shirt
+item.simple_suits:tshirt_silver=Silver T-shirt
+item.simple_suits:tshirt_white=White T-shirt
+item.simple_suits:tshirt_yellow=Yellow T-shirt
+
+
+item.simple_suits:mortarboard_black=Mortarboard Black
+item.simple_suits:mortarboard_white=Mortarboard White
+item.simple_suits:toga_black=Toga Black
+item.simple_suits:toga_white=Toga White
+
+item.simple_suits:motor_helmet_black=Motor Helmet Black
+item.simple_suits:motor_helmet_blue=Motor Helmet Blue
+item.simple_suits:motor_helmet_brown=Motor Helmet Brown
+item.simple_suits:motor_helmet_cyan=Motor Helmet Cyan
+item.simple_suits:motor_helmet_gray=Motor Helmet Gray
+item.simple_suits:motor_helmet_green=Motor Helmet Green
+item.simple_suits:motor_helmet_light_blue=Motor Helmet Light Blue
+item.simple_suits:motor_helmet_lime=Motor Helmet Lime
+item.simple_suits:motor_helmet_magenta=Motor Helmet Magenta
+item.simple_suits:motor_helmet_orange=Motor Helmet Orange
+item.simple_suits:motor_helmet_pink=Motor Helmet Pink
+item.simple_suits:motor_helmet_purple=Motor Helmet Purple
+item.simple_suits:motor_helmet_red=Motor Helmet Red
+item.simple_suits:motor_helmet_silver=Motor Helmet Silver
+item.simple_suits:motor_helmet_white=Motor Helmet White
+item.simple_suits:motor_helmet_yellow=Motor Helmet Yellow
+
+item.simple_suits:biker_helmet_black=Biker Helmet Black
+item.simple_suits:biker_helmet_blue=Biker Helmet Blue
+item.simple_suits:biker_helmet_brown=Biker Helmet Brown
+item.simple_suits:biker_helmet_cyan=Biker Helmet Cyan
+item.simple_suits:biker_helmet_gray=Biker Helmet Gray
+item.simple_suits:biker_helmet_green=Biker Helmet Green
+item.simple_suits:biker_helmet_light_blue=Biker Helmet Light Blue
+item.simple_suits:biker_helmet_lime=Biker Helmet Lime
+item.simple_suits:biker_helmet_magenta=Biker Helmet Magenta
+item.simple_suits:biker_helmet_orange=Biker Helmet Orange
+item.simple_suits:biker_helmet_pink=Biker Helmet Pink
+item.simple_suits:biker_helmet_purple=Biker Helmet Purple
+item.simple_suits:biker_helmet_red=Biker Helmet Red
+item.simple_suits:biker_helmet_silver=Biker Helmet Silver
+item.simple_suits:biker_helmet_white=Biker Helmet White
+item.simple_suits:biker_helmet_yellow=Biker Helmet Yellow
+
+
+item.simple_suits:jacket_black=Jacket Black
+item.simple_suits:jacket_blue=Jacket Blue
+item.simple_suits:jacket_brown=Jacket Brown
+item.simple_suits:jacket_cyan=Jacket Cyan
+item.simple_suits:jacket_gray=Jacket Gray
+item.simple_suits:jacket_green=Jacket Green
+item.simple_suits:jacket_light_blue=Jacket Light Blue
+item.simple_suits:jacket_lime=Jacket Lime
+item.simple_suits:jacket_magenta=Jacket Magenta
+item.simple_suits:jacket_orange=Jacket Orange
+item.simple_suits:jacket_pink=Jacket Pink
+item.simple_suits:jacket_purple=Jacket Purple
+item.simple_suits:jacket_red=Jacket Red
+item.simple_suits:jacket_silver=Jacket Silver
+item.simple_suits:jacket_white=Jacket White
+item.simple_suits:jacket_yellow=Jacket Yellow
+item.simple_suits:sando=White Sleeveless Tank Top

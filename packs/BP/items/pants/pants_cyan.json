@@ -1,0 +1,33 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "simple_suits:pants_cyan",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "simple_suits_cyan_pants"
+			},
+			"minecraft:durability": {
+				"damage_chance": {
+					"max": 2,
+					"min": 1
+				},
+				"max_durability": 50
+			},
+			"minecraft:max_stack_size": 1,
+			"minecraft:wearable": {
+				"slot": "slot.armor.legs",
+				"dispensable": true
+			},
+			"minecraft:armor": {
+				"protection": 100
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.leggings"
+			},
+			"minecraft:can_destroy_in_creative": false
+		}
+	}
+}
