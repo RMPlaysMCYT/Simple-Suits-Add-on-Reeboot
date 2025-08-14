@@ -1,6 +1,9 @@
 {
 	"format_version": 2,
 	"metadata": {
+		"license": "MIT License",
+		"product_type": "addon",
+		"url": "https://github.com/RMPlaysMCYT/Simple-Suits-Add-on-Reeboot",
 		"authors": [
 			"RMPlaysMC YT"
 		],
@@ -37,6 +40,24 @@
 				0,
 				0
 			]
+		},
+		{
+			"description": "Script",
+			"entry": "main.js",
+			"language": "javascript",
+			"type": "script",
+			"uuid": "5b1894e9-a167-4352-9f9c-2867650ba7eb",
+			"version":[
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.13.0"
 		}
 	]
 }
