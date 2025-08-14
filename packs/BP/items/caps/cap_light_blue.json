@@ -1,33 +1,34 @@
 {
-	"format_version": "1.16.100",
-	"minecraft:item": {
-		"description": {
-			"identifier": "simple_suits:cap_light_blue",
-			"category": "equipment"
-		},
-		"components": {
-			"minecraft:icon": {
-				"texture": "simple_suits_light_blue_caps"
-			},
-			"minecraft:durability": {
-				"damage_chance": {
-					"max": 2,
-					"min": 1
-				},
-				"max_durability": 50
-			},
-			"minecraft:max_stack_size": 1,
-			"minecraft:wearable": {
-				"slot": "slot.armor.head",
-				"dispensable": true
-			},
-			"minecraft:armor": {
-				"protection": 100
-			},
-			"minecraft:creative_category": {
-				"parent": "itemGroup.name.helmet"
-			},
-			"minecraft:can_destroy_in_creative": false
-		}
-	}
+    "format_version": "1.21.90",
+    "minecraft:item": {
+        "description": {
+            "identifier": "simple_suits:cap_light_blue",
+            "menu_category": {
+                "category": "equipment",
+                "group": "minecraft:itemGroup.name.chestplate"
+            }
+        },
+        "components": {
+            "minecraft:icon": "simple_suits_light_blue_caps",
+            "minecraft:enchantable": {
+                "value": 10,
+                "slot": "armor_head"
+            },
+            "minecraft:repairable": {
+                "repair_items": [
+                    {
+                        "items": ["minecraft:stick"],
+                        "repair_amount": "context.other->q.remaining_durability + 0.05 * context.other->q.max_durability"
+                    }
+                ]
+            },
+            "minecraft:wearable": {
+                "slot": "slot.armor.head",
+                "protection": 5
+            },
+            "minecraft:durability": {
+                "max_durability": 200
+            }
+        }
+    }
 }
