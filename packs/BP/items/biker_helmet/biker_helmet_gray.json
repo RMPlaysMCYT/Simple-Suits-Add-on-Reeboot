@@ -5,7 +5,7 @@
 			"identifier": "simple_suits:biker_helmet_gray",
             "menu_category": {
                 "category": "equipment",
-                "group": "minecraft:itemGroup.name.chestplate"
+                "group": "minecraft:itemGroup.name.helmet"
             }
 		},
 		"components": {
