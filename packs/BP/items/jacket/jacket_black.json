@@ -9,7 +9,7 @@
             }
         },
         "components": {
-            "minecraft:icon": "simple_suits_black_caps",
+            "minecraft:icon": "simple_suits_black_jacket",
             "minecraft:enchantable": {
                 "value": 10,
                 "slot": "armor_torso"
