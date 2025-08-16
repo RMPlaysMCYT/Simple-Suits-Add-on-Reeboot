@@ -1,14 +1,15 @@
 {
-	"format_version": "1.16.100",
+	"format_version": "1.21.20",
 	"minecraft:item": {
 		"description": {
 			"identifier": "simple_suits:shoes_blue",
-			"category": "equipment"
+			"menu_category": {
+				"category": "equipment",
+				"group": "itemGroup.name.boots"
+			}
 		},
 		"components": {
-			"minecraft:icon": {
-				"texture": "simple_suits_blue_caps"
-			},
+			"minecraft:icon": "simple_suits_blue_shoes",
 			"minecraft:durability": {
 				"damage_chance": {
 					"max": 2,
@@ -20,12 +21,6 @@
 			"minecraft:wearable": {
 				"slot": "slot.armor.feet",
 				"dispensable": true
-			},
-			"minecraft:armor": {
-				"protection": 100
-			},
-			"minecraft:creative_category": {
-				"parent": "itemGroup.name.boots"
 			},
 			"minecraft:can_destroy_in_creative": false
 		}
