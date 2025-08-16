@@ -9,7 +9,7 @@
             }
         },
         "components": {
-            "minecraft:icon": "mortarboard_white",
+            "minecraft:icon": "simple_suits_mortarboard_white",
             "minecraft:enchantable": {
                 "value": 10,
                 "slot": "armor_torso"
