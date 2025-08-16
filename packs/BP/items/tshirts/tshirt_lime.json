@@ -3,12 +3,13 @@
 	"minecraft:item": {
 		"description": {
 			"identifier": "simple_suits:tshirt_lime",
-			"category": "equipment"
+			"menu_category":{
+				"category": "equipment",
+				"group": "itemGroup.name.chestplate"
+			}
 		},
 		"components": {
-			"minecraft:icon": {
-				"texture": "simple_suits_lime_tshirt"
-			},
+			"minecraft:icon": "simple_suits_lime_tshirt",
 			"minecraft:durability": {
 				"damage_chance": {
 					"max": 2,
@@ -20,12 +21,6 @@
 			"minecraft:wearable": {
 				"slot": "slot.armor.chest",
 				"dispensable": true
-			},
-			"minecraft:armor": {
-				"protection": 100
-			},
-			"minecraft:creative_category": {
-				"parent": "itemGroup.name.chestplate"
 			},
 			"minecraft:can_destroy_in_creative": false
 		}
