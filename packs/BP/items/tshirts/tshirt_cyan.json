@@ -1,5 +1,5 @@
 {
-	"format_version": "1.16.100",
+	"format_version": "1.21.20",
 	"minecraft:item": {
 		"description": {
 			"identifier": "simple_suits:tshirt_cyan",

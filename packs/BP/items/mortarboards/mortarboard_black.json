@@ -5,7 +5,7 @@
             "identifier": "simple_suits:mortarboard_black",
             "menu_category": {
                 "category": "equipment",
-                "group": "minecraft:itemGroup.name.chestplate"
+                "group": "minecraft:itemGroup.name.helmet"
             }
         },
         "components": {
@@ -23,7 +23,7 @@
                 ]
             },
             "minecraft:wearable": {
-                "slot": "slot.armor.chest",
+                "slot": "slot.armor.head",
                 "protection": 5
             },
             "minecraft:durability": {
