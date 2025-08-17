@@ -28,7 +28,7 @@
 			"minecraft:max_stack_size": 1,
 			"minecraft:wearable": {
 				"slot": "slot.armor.legs",
-				"dispensable": true
+				"dispensable": false
 			},
 			"minecraft:can_destroy_in_creative": false
 		}
