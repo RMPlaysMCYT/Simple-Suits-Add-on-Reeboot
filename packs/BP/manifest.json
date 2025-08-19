@@ -24,10 +24,10 @@
 			18,
 			0
 		],
-		"uuid": "c960f04e-2361-47f6-9b13-fd4f421f4868",
+		"uuid": "d0f784fb-fa79-4d7a-9d48-7c9e0bf61a95",
 		"version": [
 			1,
-			0,
+			1,
 			0
 		]
 	},
@@ -37,7 +37,7 @@
 			"uuid": "8e0c9bf1-72ca-4ccf-b210-34a93fc202fb",
 			"version": [
 				1,
-				0,
+				1,
 				0
 			]
 		},
@@ -49,7 +49,7 @@
 			"uuid": "5b1894e9-a167-4352-9f9c-2867650ba7eb",
 			"version":[
 				1,
-				0,
+				1,
 				0
 			]
 		}
@@ -58,6 +58,12 @@
 		{
 			"module_name": "@minecraft/server",
 			"version": "1.13.0"
+		},
+		{
+			"uuid": "b8e4c0f7-d6d7-4921-907c-fbf9ee46502f",
+			"version": [
+				1,1,0
+			]
 		}
 	]
 }

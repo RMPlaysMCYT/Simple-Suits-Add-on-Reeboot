@@ -21,20 +21,20 @@
 			18,
 			0
 		],
-		"uuid": "2b2b6e4f-ec3c-47fb-b468-7de1eda23763",
+		"uuid": "b8e4c0f7-d6d7-4921-907c-fbf9ee46502f",
 		"version": [
 			1,
-			0,
+			1,
 			0
 		]
 	},
 	"modules": [
 		{
 			"type": "resources",
-			"uuid": "b30aec66-b16e-4e8d-b7a6-6ecb0826a3a8",
+			"uuid": "89a198e2-f9a4-4616-9477-f0777b00fe4b",
 			"version": [
 				1,
-				0,
+				1,
 				0
 			]
 		}
