@@ -9,6 +9,11 @@
             }
 		},
 		"components": {
+            "minecraft:tags": {
+                "tags": [
+                    "novelty:is_hat" /*Works with noverlty API*/
+                ]
+            },
             "minecraft:icon": "simple_suits_brown_biker_helmet",
             "minecraft:enchantable": {
                 "value": 10,
