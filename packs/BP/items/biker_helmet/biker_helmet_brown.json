@@ -11,7 +11,7 @@
 		"components": {
             "minecraft:tags": {
                 "tags": [
-                    "novelty:is_hat" /*Works with noverlty API*/
+                    "novelty:is_hat" 
                 ]
             },
             "minecraft:icon": "simple_suits_brown_biker_helmet",
