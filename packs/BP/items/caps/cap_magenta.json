@@ -9,6 +9,11 @@
             }
         },
         "components": {
+            "minecraft:tags": {
+                "tags": [
+                    "novelty:is_hat" 
+                ]
+            },
             "minecraft:icon": "simple_suits_magenta_caps",
             "minecraft:enchantable": {
                 "value": 10,
