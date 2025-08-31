@@ -2,7 +2,7 @@
     "format_version": "1.12",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "simple_suits:biker_helmet_silver.recipe"
+            "identifier": "simple_suits:motor_helmet_silver.recipe"
         },
         "tags": [
             "crafting_table"
@@ -19,11 +19,11 @@
                 "item": "minecraft:leather_helmet"
             },
             "S":{
-                "item": "minecraft:lime_dye"
+                "item": "minecraft:light_gray_dye"
             }
         },
         "result":{
-            "item": "simple_suits:biker_helmet_silver",
+            "item": "simple_suits:motor_helmet_silver",
             "count": 2
         }
     }
