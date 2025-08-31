@@ -2,7 +2,7 @@
     "format_version": "1.12",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "simple_suits:biker_helmet_lime.recipe"
+            "identifier": "simple_suits:biker_helmet_white.recipe"
         },
         "tags": [
             "crafting_table"
@@ -23,7 +23,7 @@
             }
         },
         "result":{
-            "item": "simple_suits:biker_helmet_lime",
+            "item": "simple_suits:biker_helmet_white",
             "count": 2
         }
     }
