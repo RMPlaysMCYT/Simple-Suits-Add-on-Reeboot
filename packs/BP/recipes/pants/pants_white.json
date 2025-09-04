@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "simple_suits:pants_white.recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "BAB",
+            "BSB",
+            "B B"
+        ],
+        "key": {
+            "A":{
+                "item": "minecraft:iron_nugget"
+            },
+            "B":{
+                "item": "minecraft:leather_helmet"
+            },
+            "S":{
+                "item": "minecraft:white_dye"
+            }
+        },
+        "result":{
+            "item": "simple_suits:pants_white",
+            "count": 2
+        }
+    }
+}

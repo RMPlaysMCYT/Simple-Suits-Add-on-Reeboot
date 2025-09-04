@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "simple_suits:pants_purple.recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "BAB",
+            "BSB",
+            "B B"
+        ],
+        "key": {
+            "A":{
+                "item": "minecraft:iron_nugget"
+            },
+            "B":{
+                "item": "minecraft:leather_helmet"
+            },
+            "S":{
+                "item": "minecraft:purple_dye"
+            }
+        },
+        "result":{
+            "item": "simple_suits:pants_purple",
+            "count": 2
+        }
+    }
+}
