@@ -1,5 +1,6 @@
-// import { NoveltyManager, AccessoriesSlot } from "./lib/NoveltyManager"; 
+// import { NoveltyManager, AccessoriesSlot } from "./lib/NoveltyManager";
 import { system, world } from "@minecraft/server";
+import { ActionFormData } from "@minecraft/server-ui";
 
 console.log("Simple Suits Add-on Loaded!");
 console.warn("Simple Suits Add-on Loaded!");
@@ -13,3 +14,22 @@ console.warn("Simple Suits Add-on Loaded!");
 //         }
 //     }
 // }, 5);
+
+function simpleSuitsDocumentation() {
+  const SimpleSuitsDocumentation = ActionFormData();
+  SimpleSuitsDocumentation.title("Simple Suits Documentation");
+  SimpleSuitsDocumentation.body(
+    "This Add-on adds 20+ clothing it has more caps, suits and more perfect to create a clothing store and more!"
+  );
+  SimpleSuitsDocumentation.button("Clothes Lists");
+  SimpleSuitsDocumentation.button("Back");
+}
+
+world.beforeEvents.itemUse.subscribe((event) => {
+  const event = event.itemStack;
+  if (event.typeId == "simple_suits:book") {
+    system.run(() => {
+      simpleSuitsDocumentation();
+    });
+  }
+});
