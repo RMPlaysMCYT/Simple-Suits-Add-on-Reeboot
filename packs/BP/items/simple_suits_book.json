@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.20",
+  "minecraft:item": {
+    "description": {
+      "identifier": "simple_suits:simple_suitsbook",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:display_name": {
+        "value": "Outdoor Book"
+      },
+      "minecraft:icon": "stick"
+    }
+  }
+}

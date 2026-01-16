@@ -23,11 +23,17 @@ function simpleSuitsDocumentation() {
   );
   SimpleSuitsDocumentation.button("Clothes Lists");
   SimpleSuitsDocumentation.button("Back");
+  SimpleSuitsDocumentation.show(player).then((Response) => {
+      if (Response.canceled) return;
+    //   if (Response.selection == 0) {
+          
+    //   }
+  })
 }
 
 world.beforeEvents.itemUse.subscribe((event) => {
   const event = event.itemStack;
-  if (event.typeId == "simple_suits:book") {
+  if (event.typeId == "simple_suits:simple_suitsbook") {
     system.run(() => {
       simpleSuitsDocumentation();
     });
