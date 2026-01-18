@@ -2,7 +2,7 @@
     "format_version": "1.12",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "simple_suits:tshirt_black.recipe"
+            "identifier": "simple_suits:tshirt_brown.recipe"
         },
         "tags": [
             "crafting_table"
@@ -20,11 +20,11 @@
                 "item": "minecraft:leather_chestplate"
             },
             "S":{
-                "item": "minecraft:black_dye"
+                "item": "minecraft:brown_dye"
             }
         },
         "result":{
-            "item": "simple_suits:tshirt_black",
+            "item": "simple_suits:tshirt_brown",
             "count": 2
         }
     }
