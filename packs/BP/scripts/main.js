@@ -19,7 +19,7 @@ function simpleSuitsDocumentation() {
   const SimpleSuitsDocumentation = ActionFormData();
   SimpleSuitsDocumentation.title("Simple Suits Documentation");
   SimpleSuitsDocumentation.body(
-    "This Add-on adds 20+ clothing it has more caps, suits and more perfect to create a clothing store and more!"
+    "This Add-on adds 20+ clothing it has more caps, suits and more perfect to create a clothing store and more! \nThis Add-on is also comes to every sets and colors, plus craftable outfits"
   );
   SimpleSuitsDocumentation.button("Clothes Lists");
   SimpleSuitsDocumentation.button("Back");
