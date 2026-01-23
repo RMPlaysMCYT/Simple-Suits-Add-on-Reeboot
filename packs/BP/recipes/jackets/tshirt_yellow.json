@@ -1,0 +1,31 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "simple_suits:tshirt_yellow.recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "B B",
+            "BSB",
+            "BBB"
+        ],
+        "key": {
+            "A":{
+                "item": "minecraft:iron_nugget"
+            },
+            "B":{
+                "item": "minecraft:leather_chestplate"
+            },
+            "S":{
+                "item": "minecraft:yellow_dye"
+            }
+        },
+        "result":{
+            "item": "simple_suits:tshirt_yellow",
+            "count": 2
+        }
+    }
+}
