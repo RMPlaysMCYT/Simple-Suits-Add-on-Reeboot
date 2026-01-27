@@ -2,7 +2,7 @@
     "format_version": "1.12",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "simple_suits:tshirt_yellow.recipe"
+            "identifier": "simple_suits:jacket_yellow.recipe"
         },
         "tags": [
             "crafting_table"
@@ -24,7 +24,7 @@
             }
         },
         "result":{
-            "item": "simple_suits:tshirt_yellow",
+            "item": "simple_suits:jacket_yellow",
             "count": 2
         }
     }
