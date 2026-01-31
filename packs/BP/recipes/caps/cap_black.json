@@ -9,8 +9,7 @@
         ],
         "pattern": [
             "BAB",
-            "BSB",
-            "B B"
+            "BSB"
         ],
         "key": {
             "A":{
