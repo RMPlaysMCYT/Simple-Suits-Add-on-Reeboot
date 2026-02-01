@@ -2,7 +2,7 @@
     "format_version": "1.12",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "simple_suits:cap_black.recipe"
+            "identifier": "simple_suits:cap_lime.recipe"
         },
         "tags": [
             "crafting_table"
@@ -19,11 +19,11 @@
                 "item": "minecraft:leather_helmet"
             },
             "S":{
-                "item": "minecraft:black_dye"
+                "item": "minecraft:lime_dye"
             }
         },
         "result":{
-            "item": "simple_suits:cap_black",
+            "item": "simple_suits:cap_lime",
             "count": 2
         }
     }
