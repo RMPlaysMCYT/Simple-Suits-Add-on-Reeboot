@@ -1,0 +1,28 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "simple_suits:mortarboard_black.recipe"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "BBB",
+            "BEB",
+            ""
+        ],
+        "key": {
+            "E":{
+                "item": "minecraft:leather_chestplate"
+            },
+            "B":{
+                "item": "minecraft:black_dye"
+            }
+        },
+        "result":{
+            "item": "simple_suits:mortarboard_black",
+            "count": 2
+        }
+    }
+}
